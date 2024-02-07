@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
-public class Test3
+public class TestNgSkeleton
 	{
 	@BeforeSuite
 	public void m1()
